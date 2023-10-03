@@ -1,5 +1,3 @@
-### Hi, this is s3rGi! 👋
-
 
 ## 👨🏻‍💻 About Me
 ```typescript
