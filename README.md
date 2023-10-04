@@ -1,3 +1,8 @@
+### Hey, this is s3rGi!
+
+![Static Badge](https://img.shields.io/badge/sergi.eth-black?logo=x&link=https%3A%2F%2Ftwitter.com%2Fsjuanati)
+![Static Badge](https://img.shields.io/badge/Sergi-blue?logo=linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjuanati%2F)
+
 
 ## 👨🏻‍💻 About Me
 ```typescript
