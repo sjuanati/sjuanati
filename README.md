@@ -7,21 +7,22 @@
 
 ## 👨🏻‍💻 About Me
 ```typescript
-const Sergi = {
-    focus: ['blockchain', 'business intelligence', 'data science', 'artificial intelligence'],
+let Sergi = {
+    focus: ['blockchain', 'data science', 'business intelligence', 'artificial intelligence'],
     tech: {
-        programming_languages: ['JavaScript', 'TypeScript', 'AssemblyScript', 'Python', 'Solidity', 'HTML', 'CSS'],
+        programming_languages: ['Python', 'JavaScript', 'TypeScript', 'AssemblyScript', 'Solidity', 'HTML', 'CSS'],
+        data_science_libs: ['numpy', 'pandas', 'matplotlib', 'seaborn']
         query_languages: ['SQL', 'GraphQL'],
         frameworks: ['Node.js', 'Express', 'React'],
         web3_tools: ['Subgraphs', 'Dune'],
         databases: ['Oracle', 'PostgreSQL'],
-        colab_tools: ['GitHub', 'Discord', 'Slack', 'Confluence', 'Linear', 'Notion', 'Trello', 'Jira'],
+        collab_tools: ['GitHub', 'Discord', 'Slack', 'Confluence', 'Linear', 'Notion', 'Trello', 'Jira'],
         misc: ['SAP', 'MicroStrategy']
     },
     crypto: {
         wallets: ['Rabby', 'Metamask', 'Argent/X', 'Braavos'],
         airdropping: ['zkSync', 'Starknet', 'LayerZero'],
-        following: ['r/st/stf/ETH', 'GRT', 'MATIC', 'ADA', 'AVAX', 'SAND', 'MANA', 'DOGE', 'CRO', 'BTC']
+        following: ['r/st/stf/ETH', 'GRT', 'LINK', 'MATIC', 'ADA', 'AVAX', 'SAND', 'MANA', 'DOGE', 'CRO', 'BTC']
     }
 }
 
