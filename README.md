@@ -11,7 +11,7 @@ let Sergi = {
     focus: ['blockchain', 'data science', 'business intelligence', 'artificial intelligence'],
     tech: {
         programming_languages: ['Python', 'JavaScript', 'TypeScript', 'AssemblyScript', 'Solidity', 'HTML', 'CSS'],
-        data_science_libs: ['numpy', 'pandas', 'matplotlib', 'seaborn'],
+        data_science_libs: ['numpy', 'pandas', 'matplotlib', 'seaborn', 'scikit-learn', 'scipy'],
         query_languages: ['SQL', 'GraphQL'],
         frameworks: ['Node.js', 'Express', 'React'],
         web3_tools: ['Subgraphs', 'Dune'],
