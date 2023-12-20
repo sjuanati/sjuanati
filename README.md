@@ -11,7 +11,7 @@ let Sergi = {
     focus: ['blockchain', 'data science', 'business intelligence', 'artificial intelligence'],
     tech: {
         programming_languages: ['Python', 'JavaScript', 'TypeScript', 'AssemblyScript', 'Solidity', 'HTML', 'CSS'],
-        data_science_libs: ['numpy', 'pandas', 'matplotlib', 'seaborn', 'scikit-learn', 'scipy'],
+        data_science_libs: ['numpy', 'pandas', 'matplotlib', 'seaborn', 'scikit-learn', 'tensorflow'],
         query_languages: ['SQL', 'GraphQL'],
         frameworks: ['Node.js', 'Express', 'React'],
         web3_tools: ['Subgraphs', 'Dune'],
@@ -22,7 +22,7 @@ let Sergi = {
     crypto: {
         wallets: ['Rabby', 'Metamask', 'Argent/X', 'Braavos'],
         airdropping: ['zkSync', 'Starknet', 'LayerZero'],
-        following: ['r/st/stf/ETH', 'GRT', 'LINK', 'MATIC', 'ADA', 'AVAX', 'SAND', 'MANA', 'DOGE', 'CRO', 'BTC']
+        following: ['r/st/stf/ETH', 'GRT', 'LINK', 'MATIC', 'ADA', 'AVAX', 'SAND', 'MANA', 'DOGE', 'CRO', 'SOL', 'ATOM', 'BTC']
     }
 }
 
