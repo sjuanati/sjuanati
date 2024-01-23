@@ -12,12 +12,13 @@ let Sergi = {
     tech: {
         programming_languages: ['Python', 'JavaScript', 'TypeScript', 'AssemblyScript', 'Solidity', 'HTML', 'CSS'],
         data_science_libs: ['numpy', 'pandas', 'matplotlib', 'seaborn', 'scikit-learn', 'tensorflow'],
+        business_intelligence: ['MicroStrategy', 'Tableau']
         query_languages: ['SQL', 'GraphQL'],
         frameworks: ['Node.js', 'Express', 'React'],
         web3_tools: ['Subgraphs', 'Dune'],
         databases: ['Oracle', 'PostgreSQL'],
         collab_tools: ['GitHub', 'Discord', 'Slack', 'Confluence', 'Linear', 'Notion', 'Trello', 'Jira'],
-        misc: ['SAP', 'MicroStrategy']
+        cloud: ['AWS']
     },
     crypto: {
         wallets: ['Rabby', 'Metamask', 'Argent/X', 'Braavos'],
