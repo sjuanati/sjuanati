@@ -8,9 +8,9 @@
 ## 👨🏻‍💻 About Me
 ```typescript
 let Sergi = {
-    focus: ['blockchain', 'data science', 'business intelligence', 'artificial intelligence'],
+    focus: ['blockchain', 'data analytics', 'data science', 'business intelligence', 'ai'],
     tech: {
-        programming_languages: ['Python', 'JavaScript', 'TypeScript', 'AssemblyScript', 'Solidity', 'HTML', 'CSS'],
+        programming_languages: ['Python', 'TypeScript', 'JavaScript', 'AssemblyScript', 'Solidity', 'HTML', 'CSS'],
         data_science_libs: ['numpy', 'pandas', 'matplotlib', 'seaborn', 'scikit-learn', 'tensorflow'],
         business_intelligence: ['MicroStrategy', 'Tableau'],
         query_languages: ['SQL', 'GraphQL'],
@@ -23,7 +23,7 @@ let Sergi = {
     crypto: {
         wallets: ['Rabby', 'Metamask', 'Argent/X', 'Braavos'],
         airdropping: ['zkSync', 'Starknet', 'LayerZero'],
-        following: ['r/st/stf/ETH', 'GRT', 'LINK', 'MATIC', 'ADA', 'AVAX', 'SAND', 'MANA', 'DOGE', 'CRO', 'SOL', 'ATOM', 'BTC']
+        following: ['r/st/stf/ETH', 'GRT', 'LINK', 'POL', 'SOL', 'ADA', 'AVAX', 'SAND', 'MANA', 'DOT', 'MKR', 'ATOM', 'BTC']
     }
 }
 
