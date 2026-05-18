@@ -18,7 +18,7 @@ let Sergi = {
         frameworks: ['Node.js', 'Express', 'React'],
         web3_tools: ['Subgraphs', 'Dune'],
         databases: ['Oracle', 'PostgreSQL'],
-        collab_tools: ['GitHub', 'Discord', 'Slack', 'Confluence', 'Linear', 'Notion', 'Trello', 'Jira'],
+        collab_tools: ['GitHub', 'Discord', 'Slack', 'Confluence', 'Gather', 'Notion', 'Linear', 'Notion', 'Trello', 'Jira'],
         cloud: ['AWS']
     },
     crypto: {
