@@ -23,8 +23,8 @@ let Sergi = {
     },
     crypto: {
         wallets: ['Rabby', 'Metamask', 'Argent/X', 'Braavos'],
-        airdropping: ['zkSync', 'Starknet', 'LayerZero'],
-        following: ['r/st/stf/ETH', 'GRT', 'LINK', 'POL', 'SOL', 'ADA', 'AVAX', 'SAND', 'MANA', 'DOT', 'MKR', 'ATOM', 'BTC']
+        airdrops: ['zkSync', 'Starknet'],
+        following: ['r/st/stf/ETH', 'GRT', 'LINK', 'POL', 'SOL', 'ADA', 'AVAX', 'MORPHO', 'SAND', 'MANA', 'DOT', 'SKY', 'ATOM', 'BTC']
     }
 }
 
